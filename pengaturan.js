@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Alois Photo",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyACAs7F9vmzQG7Yv4Paw6GOUMS83y_NR2M",
     whatsappAdmin: "081998199044" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
